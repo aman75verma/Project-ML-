@@ -1,0 +1,1 @@
+There are three basic projects based on Machine learning algorithms and using Python famous libraries Numpy , Pandas , Matplotlib ,Seaborn and Skicit-Learn. The project reflects my skill to preprocess and analyse data before serving it to model .Hence creating a predictive system
